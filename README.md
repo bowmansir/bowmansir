@@ -79,9 +79,3 @@ That means building agents that can actually use tools, desktop apps that feel n
 - 🌍 Website: [bowsu.com](http://www.bowsu.com)
 - ✉️ Email: [s4p3r.code@gmail.com](mailto:s4p3r.code@gmail.com)
 - 🧑‍💻 GitHub: [@bowmansir](https://github.com/bowmansir)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bowmansir&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-</p>
